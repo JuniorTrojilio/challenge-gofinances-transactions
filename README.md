@@ -5,4 +5,4 @@
 
 <p align="center">Solution of challenge made by Rocketseat in module 07 of gostack.</p>
 
-<a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native"> link to challenge<a>
+<a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload"> link to challenge<a>
